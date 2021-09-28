@@ -8,7 +8,9 @@ a very simple command line interface to output the text of a file to the termina
 
 # Installation
 clone this repo
-cd into it
-install gcc
+cd into it,
+install gcc,
+then,
+
 gcc main.c
 and BOOM
